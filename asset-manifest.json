@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e60430c8.chunk.css",
+    "main.js": "/static/js/main.72cce67e.chunk.js",
+    "main.js.map": "/static/js/main.72cce67e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55db5f50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55db5f50.js.map",
+    "static/css/2.b2633e22.chunk.css": "/static/css/2.b2633e22.chunk.css",
+    "static/js/2.5d478cea.chunk.js": "/static/js/2.5d478cea.chunk.js",
+    "static/js/2.5d478cea.chunk.js.map": "/static/js/2.5d478cea.chunk.js.map",
+    "static/js/3.db737c7c.chunk.js": "/static/js/3.db737c7c.chunk.js",
+    "static/js/3.db737c7c.chunk.js.map": "/static/js/3.db737c7c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b2633e22.chunk.css.map": "/static/css/2.b2633e22.chunk.css.map",
+    "static/css/main.e60430c8.chunk.css.map": "/static/css/main.e60430c8.chunk.css.map",
+    "static/js/2.5d478cea.chunk.js.LICENSE.txt": "/static/js/2.5d478cea.chunk.js.LICENSE.txt",
+    "static/media/leaf.339b698f.png": "/static/media/leaf.339b698f.png",
+    "static/media/treedom.81ffb9ed.gif": "/static/media/treedom.81ffb9ed.gif",
+    "static/media/treedom.f44ce920.png": "/static/media/treedom.f44ce920.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55db5f50.js",
+    "static/css/2.b2633e22.chunk.css",
+    "static/js/2.5d478cea.chunk.js",
+    "static/css/main.e60430c8.chunk.css",
+    "static/js/main.72cce67e.chunk.js"
+  ]
+}
